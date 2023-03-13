@@ -1,4 +1,4 @@
-# Python ALgorithm Challenges
+# Python Algorithm Challenges
 ![python 3.10 ][python_version]
 
 [python_version]: https://img.shields.io/static/v1.svg?label=python&message=3.10%20&color=blue
